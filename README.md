@@ -1,5 +1,21 @@
-### My GitHub stats
+### Hello!
 
+I am Michael Darmanis, formally trained mechanical engineer who since 2022 has experience of working with machine learning problems and formulation thereof.
+
+My interests are:
+
+- Analysing real world data and building all kinds of mathematical models.
+- Time series analysis and forecasting.
+- Vim/Neovim/Lua.
+
+<a href="https://github.com/mdarm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarm&theme=ayu-mirage&hide=tex,css,html,markdown&langs_count=3" />
+</a>
+<a href="https://github.com/mdarm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdarm&show_icons=true&count_private=true&line_height=27&theme=ayu-mirage" />
+</a>
+
+<!---
 These do not take into account the work done in forks, organisations, or private repos.
 
 <a href="https://github.com/mdarm/mdarm">
@@ -9,7 +25,7 @@ These do not take into account the work done in forks, organisations, or private
   <img height=200 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mdarm&theme=dracula&show_icons=true&layout=compact&card_width=320" />
 </a>
 
- <!--- <div align="center">
+<div align="center">
   
   [![Michael's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdarm&theme=rogue&card_width=640)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
