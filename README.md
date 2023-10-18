@@ -6,7 +6,9 @@ My interests are:
 
 - Analysing real world data and building all kinds of mathematical models.
 - Time series analysis and forecasting.
+- Physics-informed machine learning.
 - Vim/Neovim/Lua.
+- Arch Linux
 
 <a href="https://github.com/mdarm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarm&theme=ayu-mirage&hide=tex,css,html,markdown&langs_count=3" />
