@@ -1,11 +1,12 @@
 ### Hello!
 
-I am Michael Darmanis, formally trained mechanical engineer who since 2022 has experience of working with machine learning problems and formulation thereof.
+I am Michael Darmanis, formally trained mechanical engineer who since 2022 has experience in working with machine learning problems and formulation thereof.
 
 My interests are:
 
 - Analysing real world data and building all kinds of mathematical models.
 - Time series analysis and forecasting.
+- Uncertainty analysis.
 - Physics-informed machine learning.
 - Vim/Neovim/Lua.
 - Arch Linux
