@@ -9,7 +9,7 @@ My interests are:
 - Uncertainty analysis.
 - Physics-informed machine learning.
 - Vim/Neovim/Lua.
-- Tex/LaTeX.
+- TeX/LaTeX.
 - Arch Linux.
 
 <a href="https://github.com/mdarm">
