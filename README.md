@@ -9,7 +9,8 @@ My interests are:
 - Uncertainty analysis.
 - Physics-informed machine learning.
 - Vim/Neovim/Lua.
-- Arch Linux
+- Tex/LaTeX.
+- Arch Linux.
 
 <a href="https://github.com/mdarm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdarm&theme=ayu-mirage&hide=tex,css,html,markdown&langs_count=3" />
