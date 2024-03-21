@@ -4,7 +4,7 @@ I am Michael Darmanis, formally trained mechanical engineer who since 2022 has e
 
 My interests are:
 
-- Analysing real world data and building all kinds of mathematical models.
+- Training neural networks.
 - Time series analysis and forecasting.
 - Uncertainty analysis.
 - Physics-informed machine learning.
